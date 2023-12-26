@@ -1,24 +1,12 @@
-# MopUE4 ‚Æ‚Í
-MOPProtocol ‚ðŽóM‚µ‚Äƒ‚[ƒVƒ‡ƒ“‚ð”½‰f‚·‚éƒ‰ƒCƒuƒ‰ƒŠ‚Å‚·B
+# åŽŸä½œè€…é¡¹ç›®åœ°å€
+https://github.com/HAL9HARUKU/MopUE4
 
-## “®ìŠÂ‹«
-- Windows 10 64bit
-- UE4.26.2
+## æœ¬äººä»…ä½œé‡ç¼–è¯‘å·¥ä½œ
 
-## ŠJ”­ŠÂ‹«
-- Windows 10 64bit
-- UE4.26.2
+## ä»…èƒ½ä¿è¯æ”¯æŒwin10åŠä»¥ä¸Š 64ä½ç³»ç»Ÿ
 
-## Žg‚¢•û
+## ä½¿ç”¨æ–¹æ³•
 https://github.com/HAL9HARUKU/MopUE4/wiki
 
-## ƒ‰ƒCƒZƒ“ƒX
-MIT
-
-## ìŽÒ
-[‚Í‚é‚­](https://twitter.com/HAL9_HARUKU)
-
-## —š—ð
-
-2021/05/16 v0.1.0
-V‹Kì¬
+## åŽŸä½œè€…æŽ¨ç‰¹
+(https://twitter.com/HAL9_HARUKU)
