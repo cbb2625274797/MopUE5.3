@@ -14,4 +14,4 @@ https://github.com/HAL9HARUKU/MopUE4/wiki
 https://twitter.com/HAL9_HARUKU
 
 ## 其他相关教程：
-bilibili
+[bilibili](https://www.bilibili.com/video/BV1Eg4y1k72u/)UE5动捕
